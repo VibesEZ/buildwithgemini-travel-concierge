@@ -1,0 +1,47 @@
+[
+  {
+    "id": "san-francisco",
+    "name": "San Francisco",
+    "country": "USA",
+    "category": "Coastal City",
+    "description": "Iconic bay views, historic cable cars, Golden Gate Bridge, and vibrant food scene.",
+    "best_season": "Fall",
+    "avg_cost_per_day": 250
+  },
+  {
+    "id": "kyoto",
+    "name": "Kyoto",
+    "country": "Japan",
+    "category": "Historical & Culture",
+    "description": "Classical Buddhist temples, gardens, imperial palaces, Shinto shrines, and traditional wooden houses.",
+    "best_season": "Spring",
+    "avg_cost_per_day": 180
+  },
+  {
+    "id": "paris",
+    "name": "Paris",
+    "country": "France",
+    "category": "Cultural & Arts",
+    "description": "Global center for art, fashion, gastronomy, and culture with famous landmarks like Eiffel Tower and Louvre.",
+    "best_season": "Spring / Autumn",
+    "avg_cost_per_day": 220
+  },
+  {
+    "id": "reykjavik",
+    "name": "Reykjavik",
+    "country": "Iceland",
+    "category": "Nature & Adventure",
+    "description": "Gateway to geothermal spas, northern lights, volcanic landscapes, and dramatic waterfalls.",
+    "best_season": "Winter / Summer",
+    "avg_cost_per_day": 280
+  },
+  {
+    "id": "barcelona",
+    "name": "Barcelona",
+    "country": "Spain",
+    "category": "Coastal City",
+    "description": "Beautiful Mediterranean architecture and beaches",
+    "best_season": "Spring",
+    "avg_cost_per_day": 190
+  }
+]
